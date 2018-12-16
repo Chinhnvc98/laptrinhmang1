@@ -46,13 +46,14 @@ a{
 }
 .header .dangnhap{
 	background: #54b355;
-	font-size: 14px;
+	float: right;
+	font-size: 13px;
 	height: 35px;
 	width: 115px;
-	margin: 0 10px;
 	border-radius: 4px;
 	float: right;
 }
+
 .dangnhap .space{
 	line-height: 33px;
 	float: left;
@@ -63,7 +64,7 @@ a{
 }
 .dangnhap a span{
 	margin-left: 4	px;
-	font-size: 16px;
+	font-size: 14px;
 	color: white;
 	font-family: sans-serif;
 }
@@ -73,9 +74,7 @@ a{
 	height: 17px;
 	
 }
-.dangnhap:hover{
-	background-color: #000;
-}
+
 .xuong{
 	float: left;
 	margin-left: -194px;
@@ -98,6 +97,7 @@ a{
 	margin: 3px 150px;
 	height: 40px;
 	background-color: #324766;
+	
 }
 .menu ul.cha{
 	position: relative;
@@ -482,7 +482,7 @@ a{
 .content .right .phim_xem_nhieu .thoigian a{
 	float: left;
 	background-color: #e5dede;
-	padding: 8px 32.2px;
+	padding: 10px 32.2px;
 	color: #494444;
 	font-size: 13px;
 	font-weight: bold;
@@ -496,12 +496,36 @@ a{
 .content .right .bot ul li a{
 	padding: 4px;
 	background-color: #34495e;
-	font-size: 14px;
+	font-size: 13px;
+	font-weight: bold;
+}
+.clear{
+	clear: both;
+}
+.content .right .phim_xem_nhieu .list-film{
+	background-color: #222;
+}
+.content .right .phim_xem_nhieu .list-film .film{
+	height: 91px;
+	margin: 5px 0;
+
+}
+.content .right .phim_xem_nhieu .list-film .film img{
+	float: left;
+}
+.content .right .phim_xem_nhieu .list-film .film a{
+	color: #0094fc;
+	font-weight: bold;
+	font-size: 12px;
+}
+.content .right .phim_xem_nhieu .list-film .film p{
+	color: #fff;
+	font-size: 12px;
 	font-weight: bold;
 }
 
 .footer{
-	width: 1400px;
+	width: 1300px;
 	height: 150px;
 	background-color: #34495e;
 	float: left;

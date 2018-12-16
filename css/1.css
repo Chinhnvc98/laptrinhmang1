@@ -1,0 +1,227 @@
+.content .danhmuc{
+	margin:5px 150px;
+	width: 255px;
+	height: 40px;
+	line-height: 50px;
+	background-color: #2E2E2E;
+	font-style: bold;
+
+
+}
+.danhmuc .h4{
+	color: white;
+	font-size: 15px;
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+	line-height: 40px;
+
+}
+.content .selectionBox{
+	width: 670px;
+	height: 40px;
+	line-height: 40px;
+	margin: 5px 150px;
+
+}
+.selectionBox .selection1{
+	width: 100px;
+	height: 25px;
+	font-size: 13px;
+
+}
+.selectionBox .selection2{
+	width: 150px;
+	height: 25px;
+	font-size: 13px;
+
+}
+.selectionBox .button{
+	background-color: #34495e;
+	width: 70px;
+	height: 25px;
+	font-weight: bold;
+	color: white;
+	border-color: #34495e;
+	border-radius: 4px;
+	margin-left: 3px;
+	font-size: 13px;
+
+}
+.content .phimchieurap{
+	margin: 0 150px;
+	width: 670px;
+	float: left;
+
+}
+.phimchieurap .danhsachphim{
+	width: 158px;
+	height: 270px;
+	float: left;
+	margin-right: 9px;
+
+}
+.danhsachphim img{
+	width: 159px;
+	height: 220px;
+
+}
+.danhsachphim h4{
+	font-size: 13px;
+	margin-left: 5px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+
+}
+.danhsachphim p{
+	color: white;
+	font-size: 10px;
+	margin-left: 5px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.danhsachphim .chatluong{
+
+	width: 140px;
+	height: 13px;
+	color:white;
+	background-color: #B40404;
+	font-size: 11px;
+	position: relative;
+	top: -245px;
+	left: 1px;
+	line-height: 13px;
+	border-radius: 3px;
+
+}
+.content .infoMore{
+	margin-left:-150px;
+	margin-top: -87px;
+	width: 300px;
+	float: left;
+}
+.infoMore .facebookBilu{
+	height: 280px;
+
+}
+.facebookBilu img{
+	width: 300px;
+	height: 180px;
+
+}
+.facebookBilu .avtBiluTv{
+	width: 50px;
+	height: 50px;
+	position: relative;
+	top: -170px;
+	left: 10px;
+
+}
+.facebookBilu .likeFacebook{
+	line-height: 15px;
+	border:1px solid white;
+	background-color: white;
+	border-color: #ccc;
+	width: 80px;
+	height: 20px;
+	line-height: 20px;
+	position: relative;
+	top: -172px;
+	left: 200px;
+}
+.likeFacebook img{
+	width: 12px;
+	height: 12px;
+}
+.facebookBilu .friendFacebook{
+	width: 300px;
+	height: 80px;
+	background-color: #F2F2F2;
+	position: relative;
+	top: -160px;
+}
+.friendFacebook .avtFriend{
+	width: 280px;
+	height: 60px;
+	background-color: white;
+	position: relative;
+	top: 10px;
+	left: 10px;
+
+}
+.friendFacebook p{
+	padding-top: 7px;
+	margin-left: 7px;
+	font-size: 12px;
+	color: #2E2E2E;
+}
+.friendFacebook img{
+	width: 30px;
+	height: 30px;
+}
+.friendFacebook .xepHangPhim{
+	width: 300px;
+
+}
+.xepHangPhim .khungphimxemnhieu{
+	margin-top: 30px;
+	width: 300px;
+	height:50px;	
+	color: white;
+	background-color: #7713f1;
+}
+.xepHangPhim ul{
+	text-decoration: none;
+
+}
+.xepHangPhim ul li{
+	list-style: none;
+	list-style-type: none;
+	float: left;
+
+}
+.xepHangPhim li a{
+	padding: 7px 30px;
+	border-left: 1.8px solid #E6E6E6;
+	background-color: #E6E6E6;
+	color: black;
+
+
+}
+.xepHangPhim .selectedNgay{
+	background-color: #BDBDBD;
+}
+.xepHangPhim .phimBinhChon{
+	margin-top: 30px;
+	width: 300px;
+	height: 100px;
+	background-color: #2E2E2E;
+}
+.phimBinhChon img{
+
+	width: 70px;
+	height: 90px;
+	margin: 5px;
+	float: left;
+}
+.phimBinhChon h5{
+	text-transform: capitalize;
+	color: #0080FF;
+	margin-top: 5px;
+}
+.phimBinhChon p{
+	color: white;
+	font-size: 12px;
+	margin-top: -5px;
+}
+.phimBinhChon .imgStar img{
+	width: 18px;
+	height: 18px;
+	margin: 0;
+}
+
+.clear{
+	clear: both;
+}

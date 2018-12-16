@@ -6,7 +6,7 @@ function move_left(vt){
 	}
 	a = a+670;
 	document.getElementById('ul').style.left = a + "px";
-	document.getElementById('ul').style.transition = "right 1s";
+	document.getElementById('ul').style.transition = "left 1s";
 }
 function move_right(vt){
 	var a = vt.replace("px","");

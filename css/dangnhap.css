@@ -1,0 +1,63 @@
+.content .left .background{
+	height: 350px;
+	width: 670px;
+	background-color: #222;
+	margin-top: 5px;
+}
+.content .left .background .dang_nhap{
+	height: 42px;
+	background-color: #383838;
+}
+.content .left .background .dang_nhap p{
+	line-height: 40px;
+	color: #fff;
+	font-weight: bold;
+}
+.content .left .background .facebook img{
+	width: 300px;
+	 margin-top: 30px;
+}
+.content .left .background .email{
+	margin-top: 10px;
+	padding: 7px;
+	width: 285px;
+	border-radius: 5px;
+}
+.content .left .background .email input{
+	background-color: #4c4c4c;
+	border: none;
+	outline: none;
+}
+.content .left .background .btn_dangnhap{
+	background: linear-gradient(#666,#333);
+	margin-top: 10px;	
+	border-radius: 5px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 9px;
+	width: 280px;
+}
+.content .left .background .btn_dangnhap .a{
+	width: 280px;
+}
+.content .left .background .question{
+	margin-top: 10px;	
+	font-size: 14px;
+	font-weight: bold;
+	padding: 9px;
+	width: 280px;
+}
+.content .left .background .question p{
+	color: #f7efef;
+	font-weight: initial;
+	float: left;
+}
+.content .left .background .question a{
+	color: #337ab7;
+	font-weight: initial;
+	margin-left: 5px;
+}
+.content .left .background .question a:hover{
+	color: #23527c;
+}
